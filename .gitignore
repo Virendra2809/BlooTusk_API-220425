@@ -1,0 +1,17 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/BlooTusk.API/bin
+/BlooTusk.API/obj
+/BlooTusk.Business/bin
+/BlooTusk.Business/obj
+/BlooTusk.Common/bin
+/BlooTusk.Common/obj
+/BlooTusk.Entity/bin
+/BlooTusk.Entity/obj
+/BlooTusk.Model/bin
+/BlooTusk.Model/obj
+/BlooTusk.API/Properties/PublishProfiles
+/BlooTusk.API/appsettings.json

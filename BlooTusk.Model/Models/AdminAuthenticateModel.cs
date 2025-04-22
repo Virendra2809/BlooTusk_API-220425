@@ -1,0 +1,17 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace BlooTusk.Model.Models
+{
+    public class AdminAuthenticateModel
+    {
+        public int AdminID { get; set; }
+        public string Username { get; set; }
+        public string Token { get; set; }
+        public string RecStatus { get; set; }
+
+    }
+}
